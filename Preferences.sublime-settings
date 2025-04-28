@@ -1,0 +1,22 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"neovintageous_build_version": 13200,
+	"vintageous_use_ctrl_keys": true,
+	"vintageous_handle_keys": {
+		"<C-p>": false,
+		"<C-P>": false,
+		"<C-F>": false,
+		"<M-o>": false,
+		"<C-[>": true,
+	},
+	"vintageous_reset_mode_when_switching_tabs": false,
+	"font_size": 14,
+	"spell_check": true,
+	"hot_exit": "only_on_quit",
+	"animation_enabled": false,
+	"highlight_line": true,
+	"index_files": true,
+}
